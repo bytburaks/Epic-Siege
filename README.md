@@ -42,3 +42,9 @@ This repository contains a 3D lane-based real-time tactical strategy game develo
 4.  **Destroy the Gate:** Push your army through the lanes to breach the enemy base and win the siege.
 
 ---
+
+## 🎮 Game Photos
+<img width="942" height="542" alt="1" src="https://github.com/user-attachments/assets/9b0ee814-485a-4fbe-92cf-6b006faf199c" />
+<img width="940" height="527" alt="2" src="https://github.com/user-attachments/assets/c6d1c167-67b2-4056-b0cc-3126008d98c2" />
+<img width="938" height="523" alt="3" src="https://github.com/user-attachments/assets/d8a9cad6-7e50-4567-9de7-8dd78db283ce" />
+
